@@ -1,5 +1,8 @@
 _repo: Political-and-commercial-geology-and-the-world-s-mineral-resources_71082
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71082-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '42535'
     url: http://www.gutenberg.org/2009/agents/42535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71082#Political-and-commercial-geology-and-the-world-s-mineral-resources
 gutenberg_issued: '2023-07-01'
 identifiers:
   gutenberg: '71082'
